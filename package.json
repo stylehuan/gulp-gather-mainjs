@@ -1,6 +1,6 @@
 {
   "name": "gulp-gather-mainjs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "a small  plugin for gulp",
   "main": "index.js",
   "scripts": {
